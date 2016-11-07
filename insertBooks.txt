@@ -1,0 +1,9 @@
+db.books.insert({
+title: 'A Tree Grows In Brooklyn',
+Author: 'Betty Smith',
+ISBN: '0001'
+Publisher: 'Harper',
+PublishingDate: '1944',
+NYTBestseller: 'true',
+Category: 'Fiction'
+})
