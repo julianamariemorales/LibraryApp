@@ -1,3 +1,4 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/654af629bd7344e8add1cabd58d4f23d)](https://www.codacy.com/app/julianamariemorales/LibraryApp?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=julianamariemorales/LibraryApp&amp;utm_campaign=Badge_Grade)
 # LibraryApp
 A library CRUD app created using nodejs, mongo db, mongoosejs, body-parser and express
 - App.js
